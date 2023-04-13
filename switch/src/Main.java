@@ -21,6 +21,7 @@ public class Main {
             ave[i] = 0;
             failCount[i] = 0;
         }
+
         switch (op) {
             case 1:
                 for (int i = 0; i < scores.length; i++) {
