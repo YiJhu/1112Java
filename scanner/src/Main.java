@@ -12,6 +12,6 @@ public class Main {
         System.out.print("輸入數學成績:");
         int scoreMa = scan.nextInt();
         int sum = scoreCh + scoreEn + scoreMa;
-        System.out.println("總成績:" + String.valueOf(sum));
+        System.out.println("總成績:" + sum);
     }
 }
